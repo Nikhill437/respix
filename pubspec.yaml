@@ -1,10 +1,10 @@
 name: respix
 description: An extremely simple, intuitive API for building fully responsive Flutter applications across mobile, tablet, laptop, desktop, and web layouts.
-version: 0.0.1
-homepage: https://github.com/yourusername/respix
-repository: https://github.com/yourusername/respix
-issue_tracker: https://github.com/yourusername/respix/issues
-documentation: https://github.com/yourusername/respix#readme
+version: 0.0.2
+homepage: https://github.com/Nikhill437/respix
+repository: https://github.com/Nikhill437/respix
+issue_tracker: https://github.com/Nikhill437/respix/issues
+documentation: https://github.com/Nikhill437/respix#readme
 
 environment:
   sdk: ^3.9.2
